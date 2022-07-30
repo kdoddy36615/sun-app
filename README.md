@@ -1,3 +1,23 @@
+# What does it do?
+
+This app detects the user's IP when they arrive, and displays the sunrise and sunset times for today for their location.
+
+The user can then enter a different longitude/latitude for the sunrise/sunset there.
+
+Strayed a little from the initial prompt, because I couldn't really think of a use-case where someone would be entering IP addresses.  Hopefully the auto-detect makes up for that.
+
+# Questions:
+Why was I unable to get bootstrap Cards to work with Rows/Columns (I resorted to in-line styling here)
+
+# Todo:
+Needs input validation/escaping/control
+Needs to be prettier
+favicon verify on deploy
+Component structure should be moved so that App contains both inputform and suncards.
+Requests should be moved to a separate file
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
