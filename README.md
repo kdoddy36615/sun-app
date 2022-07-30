@@ -6,6 +6,9 @@ The user can then enter a different longitude/latitude for the sunrise/sunset th
 
 Strayed a little from the initial prompt, because I couldn't really think of a use-case where someone would be entering IP addresses.  Hopefully the auto-detect makes up for that.
 
+# Time to complete
+2.5-3 hours.  Jsonp was rough
+
 # Questions:
 Why was I unable to get bootstrap Cards to work with Rows/Columns (I resorted to in-line styling here)
 
